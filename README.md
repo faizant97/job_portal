@@ -1,6 +1,8 @@
 # job_portal
 Hello,
-
+## Use nodev16.14
+## clone this and use this following command
+npm install
 Following application contains controller, routes, config and model folders.
 
 server.js is main file for app. 
