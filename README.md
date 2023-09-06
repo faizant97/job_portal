@@ -10,7 +10,8 @@ Following application contains controller, routes, config and model folders.
 
 server.js is main file for app. 
 
-**Port**: 8082 Localhost: *http://localhost:8082* \
+**Port**: 8082 \
+**Localhost:** *http://localhost:8082* \
 **Local Mysql server**
 
 **Creating new job API:** *http://localhost:8082/jobs/create* \
